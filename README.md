@@ -1,7 +1,7 @@
 # VendorVision
 
 <div align="center">
-  <h3>AI-Powered Procurement & Vendor Management ERP</h3>
+  <h3>Procurement & Vendor Management ERP </h3>
   <p>Digitize, Streamline, and Automate Your Enterprise Procurement Operations.</p>
 </div>
 
