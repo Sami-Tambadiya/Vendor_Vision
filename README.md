@@ -248,16 +248,13 @@ We are continuously innovating. Our roadmap includes:
 
 ## 👥 Team Information
 
-- **[Team Member 1]** - Role (e.g., Full Stack Developer)
-- **[Team Member 2]** - Role
-- **[Team Member 3]** - Role
-- **[Team Member 4]** - Role
+- **[Team Leader]** - Trivedi Rutva 
+- **[Team Member 1]** - Tambadiya Sami 
+- **[Team Member 2]** - Patel Parth
+- **[Team Member 3]** - lakhsinh asfak
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
 
 ---
 <div align="center">
